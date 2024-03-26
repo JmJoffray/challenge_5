@@ -7,4 +7,4 @@ Observation 2
 
 Observation 3
 
--Based on the boxplot, Capomulin and Ramicane are the more effective drug at reducing the size of squamous cell carcinomas, while Infubinol and Ceftamin weren't.
+- Based on the boxplot, Capomulin and Ramicane are the more effective drug at reducing the size of squamous cell carcinomas, while Infubinol and Ceftamin weren't.
